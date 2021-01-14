@@ -24,7 +24,7 @@
         <java.version>1.8</java.version>
         <mapper.starter.version>1.2.3</mapper.starter.version>
         <pagehelper.starter.version>1.2.3</pagehelper.starter.version>
-        <poi.version>3.12</poi.version>
+        <poi.version>4.1.2</poi.version>
     </properties>
 
     <dependencies>
